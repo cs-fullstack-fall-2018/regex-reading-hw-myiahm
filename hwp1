@@ -1,0 +1,9 @@
+-.test allows you to test a string against regular expression and return a boolen (true or false)
+
+-.exec allows essentialy the same thing except it dosent return a boolen it returns a array with all the matching groups such as the literal string, the index of where the string was found,and the entire string it was attached to.
+
+-Simple expression matches text with the entire test string 
+
+
+-The most two important and common flags are g- global which stops after the first return 
+and i- which makes the search case insensitive  
